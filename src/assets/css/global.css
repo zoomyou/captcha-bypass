@@ -1,0 +1,13 @@
+
+html, body, #app {
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.box-card {
+  margin-top: 25px;
+  width: 70%;
+  
+  margin-left: 0%;
+}
